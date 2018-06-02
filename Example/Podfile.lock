@@ -1,0 +1,16 @@
+PODS:
+  - DLMCircleProgress (0.1.0)
+
+DEPENDENCIES:
+  - DLMCircleProgress (from `../`)
+
+EXTERNAL SOURCES:
+  DLMCircleProgress:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DLMCircleProgress: e6f86a284ec83b35000dc46a244f479f35ffbf98
+
+PODFILE CHECKSUM: 5204e85afd5e63bfcd8be6040bc4d95fe915a13c
+
+COCOAPODS: 1.4.0

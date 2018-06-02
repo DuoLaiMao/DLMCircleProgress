@@ -1,0 +1,6 @@
+framework module DLMCircleProgress {
+  umbrella header "DLMCircleProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
