@@ -22,7 +22,7 @@ pod 'DLMCircleProgress'
 
 ## Author
 
-YangJian, yangjian@baijiahulian.com
+杨健, 130yangjian@163.com
 
 ## License
 
