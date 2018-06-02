@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLMCircleProgress_Example' do
+  pod 'DLMCircleProgress', :path => '../'
+
+  target 'DLMCircleProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
